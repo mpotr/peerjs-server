@@ -25,7 +25,7 @@
     "mocha": "*"
   },
   "engines": {
-    "node": ">=0.8"
+    "node": ">=8.1.4"
   },
   "scripts": {
     "test": "mocha test",
